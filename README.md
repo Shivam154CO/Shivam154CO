@@ -87,7 +87,7 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 
 > *"The best way to predict the future is to implement it."* - Shivam Pawar
 
-📍 **Based in India** | 🚀 **Available for exciting projects** | 💡 **Always learning, always growing**
+📍 **Based in India** | **Available for exciting projects** | **Always learning, always growing**
 
 </div>
 
