@@ -85,103 +85,85 @@ I'm a passionate developer who transforms ☕ **coffee** into **code** and ideas
 
 When I'm not debugging or pushing commits, you'll find me exploring open source projects, learning new technologies, or brainstorming the next big idea. I believe in writing code that's not just functional, but elegant and maintainable.
 
-> *"The best way to predict the future is to implement it."* - Shivam Pawar
+> "The best way to predict the future is to implement it." - Shivam Pawar
 
 📍 **Based in India** | **Available for exciting projects** | **Always learning, always growing**
 
 </div>
 
-<br clear="right"/>
-
----
+<br/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
 ### 🎨 Frontend
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap" alt="Frontend" />
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </div>
 
-</td>
-<td valign="top" width="33%">
-
 ### ⚙️ Backend
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" alt="Backend" />
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 </div>
 
-</td>
-<td valign="top" width="33%">
-
 ### 📱 Mobile & Tools
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,vscode" alt="Mobile & Tools" />
 <br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </div>
-
-</td>
-</tr>
-</table>
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Databases" />
-</p>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" alt="Databases" />
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+</div>
 
 </div>
 
----
+<br/>
 
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Shivam154CO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com/?user=Shivam154CO&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam154CO&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak Stats" />
+</p>
 
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam154CO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages"/>
-</td>
-<td width="50%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Shivam154CO&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Contribution Stats"/>
-</td>
-</tr>
-</table>
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam154CO&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam154CO&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 </div>
 
----
+<br/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/shivampawar18/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -194,23 +176,24 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 <a href="https://developer-shivam.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Shivam154CO&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
----
+<br/>
 
 <div align="center">
-  
+
 ### 💭 Random Dev Quote
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
+```
