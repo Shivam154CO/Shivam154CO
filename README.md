@@ -213,16 +213,6 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/Shivam154CO/count.svg)
-
-</div>
-```
