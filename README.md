@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Currently Working On
+## 🎯 **Currently Working On**
 
 <div align="center">
   <table>
@@ -93,6 +93,8 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 
 <br/>
 
+---
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
 
 <div align="center">
@@ -124,7 +126,6 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 <br/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </div>
 
 ### 🗄️ Databases
@@ -141,7 +142,9 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 
 <br/>
 
-## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -152,9 +155,25 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 
 <br/>
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam154CO&theme=github_dark" />
+      </td>
+      <td align="center">
+        <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam154CO&theme=github_dark" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam154CO&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam154CO&theme=react-dark&bg_color=0d1117&color=6366f1&line=8b5cf6&point=c9d1d9&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </p>
 
 </div>
@@ -177,14 +196,17 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
   <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Shivam154CO&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
+<br/>
+
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 **Random Dev Quote**
 
 <!-- Random Dev Quote -->
 <p align="center">
@@ -194,6 +216,13 @@ When I'm not debugging or pushing commits, you'll find me exploring open source 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/Shivam154CO/count.svg)
 
 </div>
 ```
