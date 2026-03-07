@@ -63,7 +63,7 @@
 
 ### 👨‍💻 **Who Am I?**
 
-I'm a passionate developer who transforms ☕ **coffee** into **code** and ideas into reality. Currently pursuing BTech in Information Technology, I spend my days crafting seamless user experiences and building robust backend systems.
+I'm a passionate developer who transforms ☕ **coffee** into **code** and ideas into reality. Currently pursuing BE in Information Technology, I spend my days crafting seamless user experiences and building robust backend systems.
 
 ### 🎯 **What I Do?**
 
