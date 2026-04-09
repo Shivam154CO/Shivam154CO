@@ -81,7 +81,7 @@ I'm a passionate developer who transforms ☕ **coffee** into **code** and ideas
 └────────────────────────────────────────────┘
 ```
 
-### 🌟 **Beyond Code**
+### **Beyond Code**
 
 When I'm not debugging or pushing commits, you'll find me exploring open source projects, learning new technologies, or brainstorming the next big idea. I believe in writing code that's not just functional, but elegant and maintainable.
 
